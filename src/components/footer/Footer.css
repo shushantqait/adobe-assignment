@@ -1,0 +1,37 @@
+.Footer a {
+    color: #FFF;
+    opacity: 0.5;
+    text-decoration: none;
+}
+
+.Footer a:hover {
+    opacity: 1;
+    color: #FFF;
+    text-decoration: none;
+}
+
+@media screen and (max-width: 800px) {
+    .Footer .Footer__social-grid {
+        gap: 0px !important;
+        margin-left: 1% !important;
+        padding: 12% 10% 5% 0 !important;
+        grid-template-columns: auto auto !important;
+    }
+}
+
+@media screen and (max-width: 650px) {
+    .Footer .grid-box {
+        margin-bottom: 0 !important;
+        grid-template-columns: auto auto auto !important;
+    }
+
+    .Footer .Footer__social-grid {
+        width: 100%;
+        gap: 0px !important;
+        grid-gap: 0px !important;
+        margin-left: 0% !important;
+        padding: 10% 0 5% 0% !important;
+        justify-content: center !important;
+        grid-template-columns: auto !important;
+    }
+}

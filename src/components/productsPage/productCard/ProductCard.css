@@ -1,0 +1,52 @@
+.ProductCard__card-box {
+    width: 315px;
+    height: 230px;
+    padding: 13px 15px;
+    border-radius: 4px;
+    border: 1px solid #AAA;
+    background-color: #FFF;
+}
+
+.ProductCard__card-heading {
+    color: #1A1A1A;
+}
+
+.ProductCard__card-border-primary {
+    border: 1px solid #007bff;
+}
+
+.ProductCard__card-align-center {
+    align-items: center;
+}
+
+.ProductCard__text-decoration-none {
+    text-decoration: none;
+}
+
+.ProductCard__display-grid {
+    font-size: 13px;
+    cursor: default !important;
+    display: inline-block !important;
+}
+
+.ProductCard__card-description,
+.ProductCard__card-heading {
+    height: 46px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.ProductCard__card-publisher-name {
+    height: 20px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.ProductCard__card-description {
+    height: 60px;
+}
+
+.ProductCard__display-title {
+    font-size: 11px;
+}

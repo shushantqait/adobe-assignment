@@ -1,0 +1,389 @@
+{   
+    "cardDetails": [
+        {
+        "id":1,
+        "title":"RollWorks Account-Based Platform",
+        "publisherName":"RollWorks, a division of NextRoll, Inc.",
+        "productTags": [
+            "XD",
+            "Bridge",
+            "Graphics",
+            "Video Editing",
+            "Templates"
+        ],
+        "productNames":[
+            "Experience Cloud"
+        ],
+        "description":"Discover and Engage Known and Unknown Buyers with Marketo and RollWorks and Close More Deals Faster.",
+        "imgUrl":"https://d1a2d0h96mvhgv.cloudfront.net/3/105729/591dbf74-0252-418b-ac86-b3829bd75c6f.png",
+        "status":"1"
+        },
+        {
+        "id":2,
+        "title":"ECI AEM Connector",
+        "publisherName":"EC Innovations AEM Connector",
+        "productTags": [
+            "XD",
+            "Prelude",
+            "Brushes",
+            "Templates"
+        ],
+        "productNames":[
+            "Experience Manager",
+            "Experience Cloud"
+        ],
+        "description":"ECI Translation Connector for AEM",
+        "imgUrl":"https://d1a2d0h96mvhgv.cloudfront.net/3/103636/ed0b9c66-ff4b-45c3-917d-2ec0f019806a.PNG",
+        "status":""
+        },
+        {
+        "id":3,
+        "title":"Sprinklr Integration with Adobe Experience Manager",
+        "publisherName":"Sprinklr. Inc.",
+        "productTags": [
+            "Bridge",
+            "Prelude",
+            "Gradients",
+            "Video Editing"
+        ],
+        "productNames":[
+            "Experience Manager"
+        ],
+        "description":"The Sprinklr AEM connector enables users to search and import AEM assets from within the Sprinklr UI.",
+        "imgUrl":"https://d1a2d0h96mvhgv.cloudfront.net/3/104333/0926b082-e482-42d6-9a9d-d22cc3beea09.png",
+        "status":""
+        },
+        {
+        "id":4,
+        "title":"AEM Asset Insights",
+        "publisherName":"Adobe Consulting Services",
+        "productTags": [
+            "XD",
+            "Audition",
+            "Brushes",
+            "Graphics",
+            "Templates"
+        ],
+        "productNames":[
+            "Experience Manager",
+            "Analytics",
+            "Launch"
+        ],
+        "description":"Send AEM Asset Impression and Click metrics to Adobe Analytics and back into AEM Asset Insights.",
+        "imgUrl":"https://d1a2d0h96mvhgv.cloudfront.net/3/103406/e94b53d0-b052-4d19-9585-6beb5b4e094e.jpg",
+        "status":""
+        },
+        {
+        "id":5,
+        "title":"TapClicks Marketing Operations Platform",
+        "publisherName":"TapClicks",
+        "productTags": [
+            "Bridge",
+            "Prelude",
+            "Gradients",
+            "Video Editing"
+        ],
+        "productNames":[
+            "Advertising Cloud",
+            "Experience Cloud",
+            "Analytics"
+        ],
+        "description":"Build marketing reports to generate insights to optimize campaigns by aggregating data from Advertising Cloud and other marketing channels",
+        "imgUrl":"https://d1a2d0h96mvhgv.cloudfront.net/3/102928/2744b50d-6ee8-45e4-ad42-295ed324edd7.png",
+        "status":""
+        },
+        {
+        "id":6,
+        "title":"NetWise Data",
+        "publisherName":"NetWise Data, LLC",
+        "productTags": [
+            "XD",
+            "Bridge",
+            "Audition",
+            "Prelude"
+        ],
+        "productNames":[
+            "Advertising Cloud",
+            "Campaign",
+            "Primetime",
+            "target",
+            "Analytics"
+        ],
+        "description":"NetWise Data provides Farm-to-Table B2B2C Audiences affordably at scale.",
+        "imgUrl":"https://d1a2d0h96mvhgv.cloudfront.net/2/90094/96b9d453b5274f5c2e96047b350098f5.png",
+        "status":"1"
+        },
+        {
+        "id":7,
+        "title":"Datonics Data",
+        "publisherName":"Datonics",
+        "productTags": [
+            "Templates"
+        ],
+        "productNames":[
+            "Advertising Manager",
+            "Advertising Cloud",
+            "Campaign",
+            "Primetime",
+            "target",
+            "Analytics"
+        ],
+        "description":"Learn about your audiences affinities compared to Datonics 500M US + Canada users and their online browsing behavior as well as offline actions.",
+        "imgUrl":"https://d1a2d0h96mvhgv.cloudfront.net/3/101085/c246f8e6-1d33-474e-bb62-88774febbec5.png",
+        "status":""
+        },
+        {
+        "id":8,
+        "title":"Mopub Marketplace",
+        "publisherName":"",
+        "productTags": [
+            "Bridge",
+            "Graphics"
+        ],
+        "productNames":[
+            "Advertising Cloud"
+        ],
+        "description":"Mopub (owned by Twitter) is a mobile app inventory supplier to Adobe Ad Cloud customers. They run one of the largest monetization and mediation platforms in the ecosystem.",
+        "imgUrl":"https://d1a2d0h96mvhgv.cloudfront.net/2/91120/7bbc134d2957a18afb5a8b48dcd9ea63.png",
+        "status":""
+        },
+        {
+        "id":9,
+        "title":"Knak",
+        "publisherName":"Knak",
+        "productTags": [
+            "Video Editing"
+        ],
+        "productNames":[
+            "Campaign"
+        ],
+        "description":"Create beautiful, on-brand emails in minutes - no coding required. Knak works with today's top marketing automation platforms including Adobe Campaign and Marketo.",
+        "imgUrl":"https://d1a2d0h96mvhgv.cloudfront.net/3/105021/7199c08e-ce9d-403e-bef4-7f2bf6f2efae.png",
+        "status":""
+        },
+        {
+        "id":10,
+        "title":"OpenMarket SMS Messaging Services",
+        "publisherName":"OpenMarket",
+        "productTags": [
+            "XD",
+            "Bridge",
+            "Gradients",
+            "Graphics",
+            "Video Editing",
+            "Templates"
+        ],
+        "productNames":[
+            "Campaign"
+        ],
+        "description":"OpenMarket’s SMS network lets you interact with customers in 250 countries worldwide. Send the right message at the right moment on Adobe Campaign.",
+        "imgUrl":"https://d1a2d0h96mvhgv.cloudfront.net/3/104254/cd934a0a-20bf-4629-b467-84a3441ad2d6.png",
+        "status":""
+        },
+        {
+        "id":11,
+        "title":"MMS Connector for Adobe Campaign Classic",
+        "publisherName":"Sinch",
+        "productTags": [
+            "XD",
+            "Bridge",
+            "Audition",
+            "Prelude",
+            "Brushes",
+            "Video Editing",
+            "Templates"
+        ],
+        "productNames":[
+            "Campaign"
+        ],
+        "description":"Sinch MMS Connector enables the creation and delivery of mobile MMS messages from Adobe Campaign Classic.",
+        "imgUrl":"https://d1a2d0h96mvhgv.cloudfront.net/3/104469/2652151c-f948-49f1-bf62-1f9728a134c6.png",
+        "status":""
+        },
+        {
+        "id":12,
+        "title":"Mtarget SMS",
+        "publisherName":"Mtarget SMS for AC & ACS",
+        "productTags": [
+            "Audition",
+            "Prelude",
+            "Video Editing",
+            "Templates"
+        ],
+        "productNames":[
+            "Campaign"
+        ],
+        "description":"Mtarget offers mobile marketing services that enables brands to drive more revenue and to improve their communication towards their customers using SMS and Enriched SMS.",
+        "imgUrl":"https://d1a2d0h96mvhgv.cloudfront.net/3/104156/9beed233-f5f8-4cbd-9bde-9bb306442bc1.png",
+        "status":""
+        },
+        {
+        "id":13,
+        "title":"ValueFirst SMS Messaging Services for Adobe",
+        "publisherName":"A ValueFirst Digital Media Pvt. Ltd.",
+        "productTags": [
+            "XD",
+            "Bridge",
+            "Gradients"
+        ],
+        "productNames":[
+            "Campaign"
+        ],
+        "description":"ValueFirst offers mobile engagement solutions that empower brands to engage customers globally. Enhance customer experience with SMS and conversational messaging!",
+        "imgUrl":"https://d1a2d0h96mvhgv.cloudfront.net/3/103622/8dbb6872-22b4-4478-82ad-95e01951361b.png",
+        "status":""
+        },
+        {
+        "id":14,
+        "title":"MessageMedia SMS for Adobe Campaign",
+        "publisherName":"MessageMedia",
+        "productTags": [
+            "Gradients",
+            "Graphics",
+            "Video Editing",
+            "Templates"
+        ],
+        "productNames":[
+            "Campaign"
+        ],
+        "description":"Enhance your customer marketing experience with cross-channel communication and connect SMS into your campaign workflows.",
+        "imgUrl":"https://d1a2d0h96mvhgv.cloudfront.net/3/103071/2f8fc08c-febd-4843-93fe-5d73d87078d2.jpg",
+        "status":""
+        },
+        {
+            "id":15,
+            "title":"Adobe",
+            "publisherName":"MessageMedia",
+            "productTags": [
+                "Brushes",
+                "Templates"
+            ],
+            "productNames":[
+                "Campaign",
+                "Audience Manager"
+            ],
+            "description":"Enhance your customer marketing experience with cross-channel communication and connect SMS into your campaign workflows.",
+            "imgUrl":"https://d1a2d0h96mvhgv.cloudfront.net/3/103071/2f8fc08c-febd-4843-93fe-5d73d87078d2.jpg",
+            "status":"1"
+        },
+        {
+            "id":16,
+            "title":"Adobe",
+            "publisherName":"MessageMedia",
+            "productTags": [
+                "XD",
+                "Bridge",
+                "Audition",
+                "Video Editing",
+                "Templates"
+            ],
+            "productNames":[
+                "Campaign",
+                "Audience Manager"
+            ],
+            "description":"Enhance your customer marketing experience with cross-channel communication and connect SMS into your campaign workflows.",
+            "imgUrl":"https://d1a2d0h96mvhgv.cloudfront.net/3/103071/2f8fc08c-febd-4843-93fe-5d73d87078d2.jpg",
+            "status":"1"
+        },
+        {
+            "id":17,
+            "title":"Adobe",
+            "publisherName":"MessageMedia",
+            "productTags": [
+                "XD",
+                "Bridge",
+                "Audition",
+                "Prelude",
+                "Templates"
+            ],
+            "productNames":[
+                "Campaign",
+                "Audience Manager",
+                "Experience Manager",
+                "Analytics"
+            ],
+            "description":"Enhance your customer marketing experience with cross-channel communication and connect SMS into your campaign workflows.",
+            "imgUrl":"https://d1a2d0h96mvhgv.cloudfront.net/3/103071/2f8fc08c-febd-4843-93fe-5d73d87078d2.jpg",
+            "status":"1"
+        },
+        {
+            "id":18,
+            "title":"RollWorks Account-Based Platform",
+            "publisherName":"RollWorks, a division of NextRoll, Inc.",
+            "productTags": [
+                "XD",
+                "Photoshop",
+                "Graphics",
+                "Video Editing",
+                "Templates"
+            ],
+            "productNames":[
+                "Experience Cloud",
+                "Audience Manager"
+            ],
+            "description":"Discover and Engage Known and Unknown Buyers with Marketo and RollWorks and Close More Deals Faster.",
+            "imgUrl":"https://d1a2d0h96mvhgv.cloudfront.net/3/105729/591dbf74-0252-418b-ac86-b3829bd75c6f.png",
+            "status":"1"
+        },
+        {
+            "id":19,
+            "title":"ECI AEM Connector",
+            "publisherName":"EC Innovations AEM Connector",
+            "productTags": [
+                "XD",
+                "Bridge",
+                "Templates"
+            ],
+            "productNames":[
+                "Experience Manager",
+                "Experience Cloud",
+                "Audience Manager"
+            ],
+            "description":"ECI Translation Connector for AEM",
+            "imgUrl":"https://d1a2d0h96mvhgv.cloudfront.net/3/103636/ed0b9c66-ff4b-45c3-917d-2ec0f019806a.PNG",
+            "status":""
+        }
+        
+    ],
+    "labelsForInitialRender": [
+        {
+            "id": 1,
+            "name": "Popular Apps for Advertising",
+            "category": [
+                "Experience Manager",
+                "Advertising Manager"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Popular Apps for Campaign",
+            "category": [
+                "Experience Manager",
+                "Analytics"
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Popular Apps for Content Management",
+            "category": [
+                "Experience Manager",
+                "Experience Cloud"
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Popular Apps for Audience Manager",
+            "category": [
+                "Audience Manager"
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Popular Apps for Personalization",
+            "category": [
+                "Experience Platform",
+                "Experience Cloud"
+            ]
+        }
+    ]
+}

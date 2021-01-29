@@ -1,0 +1,13 @@
+html {
+    line-height: 1.5;
+    font-weight: 300;
+    font-family: 'Istok Web', sans-serif;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+}
+
+.hidden {
+    display: none;
+}

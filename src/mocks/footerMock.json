@@ -1,0 +1,116 @@
+{
+    "NavLinks": [
+        {
+            "id": 1,
+            "heading": "APIs",
+            "titles": [
+                {
+                    "id": 1,
+                    "name": "Creative Cloud",
+                    "url": "/#"
+                },
+                {
+                    "id": 2,
+                    "name": "Document Cloud",
+                    "url": "/#"
+                },
+                {
+                    "id": 3,
+                    "name": "Experience Cloud",
+                    "url": "/#"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "heading": "Blogs and Community",
+            "titles": [
+                {
+                    "id": 1,
+                    "name": "Adobe Tech Blog",
+                    "url": "/#"
+                },
+                {
+                    "id": 2,
+                    "name": "Adobe on GitHub",
+                    "url": "/#"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "Developer Resources",
+            "titles": [
+                {
+                    "id": 1,
+                    "name": "Go to Adobe.io to create plugins",
+                    "url": "/#"
+                },
+                {
+                    "id": 2,
+                    "name": "Go to Adobe.io to create plugins",
+                    "url": "/#"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "User Resources",
+            "titles": [
+                {
+                    "id": 1,
+                    "name": "Forum",
+                    "url": "/#"
+                },
+                {
+                    "id": 2,
+                    "name": "Help & Troubleshooting",
+                    "url": "/#"
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "Support",
+            "titles": [
+                {
+                    "id": 1,
+                    "name": "Contact Us",
+                    "url": "/#"
+                },
+                {
+                    "id": 2,
+                    "name": "Adobe Developer Support",
+                    "url": "/#"
+                },
+                {
+                    "id": 3,
+                    "name": "Adobe Product Support",
+                    "url": "/#"
+                },
+                {
+                    "id": 4,
+                    "name": "Release Notes",
+                    "url": "/#"
+                }
+            ]
+        }
+    ],
+    "socialLinks": [
+        {
+            "id": 1,
+            "name": "Facebook",
+            "url": "/#"
+        },
+        {
+            "id": 2,
+            "name": "Twitter",
+            "url": "/#"
+        },
+        {
+            "id": 3,
+            "name": "Linkedin",
+            "url": "/#"
+        }
+    ]
+}

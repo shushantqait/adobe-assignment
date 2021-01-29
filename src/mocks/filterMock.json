@@ -1,0 +1,154 @@
+{
+    "view_by_product": {
+        "title": "VIEW BY PRODUCT",
+        "tags": [
+            {
+                "id": 1,
+                "name": "All"
+            },
+            {
+                "id": 2,
+                "name": "Photoshop"
+            },
+            {
+                "id": 3,
+                "name": "InDesign"
+            },
+            {
+                "id": 4,
+                "name": "Dreamweaver"
+            },
+            {
+                "id": 5,
+                "name": "Lightroom Classic"
+            },
+            {
+                "id": 6,
+                "name": "Lightroom"
+            },
+            {
+                "id": 7,
+                "name": "Muse"
+            },
+            {
+                "id": 8,
+                "name": "Premium Pro"
+            },
+            {
+                "id": 9,
+                "name": "After Effects"
+            },
+            {
+                "id": 10,
+                "name": "InCopy"
+            },
+            {
+                "id": 11,
+                "name": "Animate"
+            },
+            {
+                "id": 12,
+                "name": "Acrobat Pro"
+            },
+            {
+                "id": 13,
+                "name": "Prelude"
+            },
+            {
+                "id": 14,
+                "name": "Audition"
+            },
+            {
+                "id": 15,
+                "name": "Bridge"
+            },
+            {
+                "id": 16,
+                "name": "XD"
+            }
+        ]
+    },
+    "popular_tags": {
+        "title": "FILTER BY POPULAR TAGS",
+        "tags": [
+            {
+                "id": 1,
+                "name": "3D"
+            },
+            {
+                "id": 2,
+                "name": "Actions"
+            },
+            {
+                "id": 3,
+                "name": "Brushes"
+            },
+            {
+                "id": 4,
+                "name": "Effects"
+            },
+            {
+                "id": 5,
+                "name": "Gradients"
+            },
+            {
+                "id": 6,
+                "name": "Graphics"
+            },
+            {
+                "id": 7,
+                "name": "Painting"
+            },
+            {
+                "id": 8,
+                "name": "Photo Editing"
+            },
+            {
+                "id": 9,
+                "name": "Presets"
+            },
+            {
+                "id": 10,
+                "name": "Printing"
+            },
+            {
+                "id": 11,
+                "name": "Templates"
+            },
+            {
+                "id": 12,
+                "name": "Video Editing"
+            }
+        ]
+    },
+    "resources": {
+        "title": "RESOURCES",
+        "tags": [
+            {
+                "id": 1,
+                "url": "/#",
+                "name": "My Exchange"
+            },
+            {
+                "id": 2,
+                "url": "/#",
+                "name": "Forum"
+            },
+            {
+                "id": 3,
+                "url": "/#",
+                "name": "Help & Troubleshooting"
+            },
+            {
+                "id": 4,
+                "url": "/#",
+                "name": "Go to Adobe.io to create plugins"
+            },
+            {
+                "id": 5,
+                "url": "/#",
+                "name": "Go to the Exchange portal to publish plugins"
+            }
+        ]
+    }
+}

@@ -1,0 +1,13 @@
+.Banner {
+    padding: 1.8rem 2.7rem ;
+}
+
+.Banner__image {
+    border-radius: 7px;
+}
+
+@media screen and (max-width: 650px) {
+    .Banner {
+        padding: 1.8rem 1rem ;
+    }
+}

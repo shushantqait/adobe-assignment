@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "url": "../assets/banner.jpg",
+        "title": "Branch Launch Extension",
+        "publisher": "Branch Metrics"
+    },
+    {
+        "id": 2,
+        "url": "../assets/banner.jpg",
+        "title": "Persado Connect for Launch",
+        "publisher": "Persado"
+    },
+    {
+        "id": 3,
+        "url": "../assets/banner.jpg",
+        "title": "Claravine",
+        "publisher": "Claravine"
+    },
+    {
+        "id": 4,
+        "url": "../assets/banner.jpg",
+        "title": "AppsFlyer Attribution",
+        "publisher": "AppsFlyer"
+    },
+    {
+        "id": 5,
+        "url": "../assets/banner.jpg",
+        "title": "Workfront for AEM Assets",
+        "publisher": "Workfront, an Adobe Company"
+    },
+    {
+        "id": 6,
+        "url": "../assets/banner.jpg",
+        "title": "Akeneo PIM Connector for Magento",
+        "publisher": "Akeneo"
+    }
+]
