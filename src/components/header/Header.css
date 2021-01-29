@@ -4,25 +4,17 @@
     font-family: 'Lato', sans-serif;
 }
 
-@media screen and (max-width: 1290px) {
-    .Header__responsive-box {
-        width: 20% !important;
-    }
+.search-border-none input {
+    border: none;
 }
 
-@media screen and (max-width: 1150px) {
+@media screen and (max-width: 1290px) {
     .Header__responsive-box {
-        width: 20% !important;
+        width: auto !important;
     }
 }
 
 @media screen and (max-width: 992px) {
-    .Header__responsive-box {
-        width: 40% !important;
-    }
-}
-
-@media screen and (max-width: 650px) {
     .Header__navbar-flex-wrap {
         flex-wrap: wrap;
     }
