@@ -2,10 +2,6 @@
     display: none;
 }
 
-.ProductPage__card-font-20 {
-    font-size: 20px;
-}
-
 .ProductPage__flex-box {
     align-content: flex-start;
 }
@@ -42,7 +38,7 @@
     }
 }
 
-@media screen and (max-width: 750px) {
+@media screen and (max-width: 650px) {
     .ProductPage__grid-box {
         grid-template-columns: 35% 65% !important;
     }

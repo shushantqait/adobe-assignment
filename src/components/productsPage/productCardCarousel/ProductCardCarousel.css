@@ -1,5 +1,9 @@
-.ProductCarousel__nextArrow,
-.ProductCarousel__prevArrow {
+.ProductCardCarousel .Carousel {
+    padding: 0;
+}
+
+.ProductCardCarousel .Carousel__nextArrow,
+.ProductCardCarousel .Carousel__prevArrow {
     top: 50%;
     width: 52px;
     height: 52px;
@@ -18,55 +22,51 @@
     box-shadow: 1px 1px 6px rgb(0 0 0 / 50%);
 }
 
-.ProductCarousel__nextArrow:hover,
-.ProductCarousel__prevArrow:hover {
+.ProductCardCarousel .Carousel__nextArrow:hover,
+.ProductCardCarousel .Carousel__prevArrow:hover {
     opacity: 1;
 }
 
-.ProductCarousel__prevArrow {
+.ProductCardCarousel .Carousel__prevArrow {
     left: -25px;
 }
 
-.ProductCarousel__nextArrow {
+.ProductCardCarousel .Carousel__nextArrow {
     right: -10px;
 }
 
-.ProductCarousel .grid-box {
+.ProductCardCarousel .grid-box {
     border: 1px solid #EEE;
 }
 
-.ProductCarousel .name-box {
+.ProductCardCarousel .name-box {
     padding-left: 20px
 }
 
-.ProductCarousel .card-footer span,
-.ProductCarousel .card-footer h6 {
+.ProductCardCarousel .card-footer span,
+.ProductCardCarousel .card-footer h6 {
     overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
 }
 
-.ProductCarousel__display-grid {
-    display: grid;
-}
-
 @media screen and (max-width: 1260px) {
-    .ProductCarousel .slick-slide {
+    .ProductCardCarousel .slick-slide {
         display: flex;
         justify-content: center;
     }
 
-    .ProductCarousel__prevArrow {
+    .ProductCardCarousel .Carousel__prevArrow {
         left: -10px;
     }
     
-    .ProductCarousel__nextArrow {
+    .ProductCardCarousel .Carousel__nextArrow {
         right: -10px;
     }
 }
 
 @media screen and (max-width: 730px) {
-    .ProductCarousel .slick-slide {
+    .ProductCardCarousel .slick-slide {
         display: flex;
         justify-content: center;
     }

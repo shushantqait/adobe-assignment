@@ -7,10 +7,6 @@
     background-color: #FFF;
 }
 
-.ProductCard__card-heading {
-    color: #1A1A1A;
-}
-
 .ProductCard__card-border-primary {
     border: 1px solid #007bff;
 }
@@ -23,7 +19,7 @@
     text-decoration: none;
 }
 
-.ProductCard__display-grid {
+.ProductCard__custom-display-box {
     font-size: 13px;
     cursor: default !important;
     display: inline-block !important;

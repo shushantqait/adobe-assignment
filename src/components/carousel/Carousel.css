@@ -1,5 +1,5 @@
 .Carousel {
-    padding: 1.2rem 2rem 2.2rem 2rem;
+    padding: 1.2rem 0 5.5rem;
 }
 
 .Carousel__nextArrow,
@@ -35,36 +35,13 @@
     right: -18px;
 }
 
-.Carousel .grid-box {
-    border: 1px solid #EEE;
-}
-
 .Carousel .name-box {
     padding-left: 20px
 }
 
-.Carousel__text-black {
-    color: #1A1A1A;
-}
-
-.Carousel .card-footer span,
-.Carousel .card-footer h6 {
-    overflow: hidden;
-    white-space: nowrap;
-    text-overflow: ellipsis;
-}
-
-.Carousel__bg-white {
-    background-color: #FFF;
-}
-
-.Carousel__display-grid {
-    display: grid;
-}
-
 @media screen and (max-width: 650px) {
     .Carousel {
-        padding: 1.8rem 1rem ;
+        padding: 1.8rem 0 ;
     }
 
     .Carousel__prevArrow {

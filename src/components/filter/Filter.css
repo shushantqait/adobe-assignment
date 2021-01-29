@@ -1,0 +1,16 @@
+.Filter__label {
+    font-size: 13px;
+    color: #4b4b4b;
+    padding-left: 12px;
+    letter-spacing: 0.2px;
+}
+
+.Filter__font-16 {
+    font-size: 16px;
+}
+
+@media screen and (max-width: 880px) {
+    .Filter__label {
+        padding-left: 0;
+    }
+}

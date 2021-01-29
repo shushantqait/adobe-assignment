@@ -4,40 +4,6 @@
     font-family: 'Lato', sans-serif;
 }
 
-.Header .navbar-brand {
-    padding-bottom: 1.01%;
-}
-
-.Header .navbar-collapse {
-    top: 4px;
-    z-index: 999;
-}
-
-.Header__cursor-pointer {
-    cursor: pointer !important;
-}
-
-.Header__tabs-hover div,
-.Header__tabs-hover span {
-    cursor: pointer !important;
-}
-
-.Header .navbar-search-box {
-    padding-right: 1rem;
-}
-
-.Header .navbar-toggler {
-    margin-top: 0.6%;
-}
-
-.Header__tabs-hover ._spectrum-Tabs-item_0248f {
-    padding: 0 15px;
-}
-
-.Header__tabs-hover ._spectrum-Tabs-item_0248f:hover {
-    background-color: #FAFAFA;
-}
-
 @media screen and (max-width: 1290px) {
     .Header__responsive-box {
         width: 20% !important;
@@ -61,16 +27,8 @@
         flex-wrap: wrap;
     }
 
-    .Header .navbar-search-box {
-      padding-right: 0 !important;
-    }
-
     .Header__responsive-box {
         padding: 20px 0 10px 0;
         width: 100% !important;
-    }
-
-    .Header__tabs-hover {
-        align-items: center;
     }
 }

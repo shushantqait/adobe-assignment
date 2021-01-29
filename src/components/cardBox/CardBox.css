@@ -1,0 +1,10 @@
+.card-footer {
+    border-radius: 5px 5px 10px 10px ​!important;
+}
+
+.card-footer span,
+.card-footer h6 {
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}

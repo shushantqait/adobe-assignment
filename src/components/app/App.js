@@ -2,15 +2,13 @@ import React from 'react';
 import Header from '../header';
 import Banner from '../banner';
 import Footer from '../footer';
-import Carousel from '../carousel';
-import ProductsPage from '../productsPage';
+import ProductsPage from '../containers/ProductsPage';
 
 function App(props) {
     return (
         <div className="App">
             <Header />
             <Banner />
-            <Carousel />
             <ProductsPage />
             <Footer />
         </div>

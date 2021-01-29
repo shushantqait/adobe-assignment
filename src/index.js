@@ -1,7 +1,7 @@
 import './index.css';
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './components/App';
+import App from './components/app';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import configureStore from './store/configureStore';
 import { Provider as NewProvider } from 'react-redux';

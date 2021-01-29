@@ -1,0 +1,18 @@
+.TabsContainer__tabs-hover div,
+.TabsContainer__tabs-hover span {
+    cursor: pointer !important;
+}
+
+.TabsContainer__tabs-hover ._spectrum-Tabs-item_0248f {
+    padding: 0 15px;
+}
+
+.TabsContainer__tabs-hover ._spectrum-Tabs-item_0248f:hover {
+    background-color: #FAFAFA;
+}
+
+@media screen and (max-width: 650px) {
+    .TabsContainer__tabs-hover {
+        align-items: center;
+    }
+}
