@@ -1,4 +1,4 @@
-export default {
+const Actions = {
     Card: {
         GET: 'CARD_DETAILS_GET'
     },
@@ -6,3 +6,5 @@ export default {
         GET: 'FILTER_LINKS_GET'
     }
 };
+
+export default Actions;

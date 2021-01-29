@@ -10,11 +10,7 @@
     "@fortawesome/react-fontawesome": "^0.1.14",
     "@react-spectrum/tabs": "^3.0.0-alpha.3",
     "@spectrum-icons/workflow": "^3.2.0",
-    "@testing-library/jest-dom": "^5.11.4",
-    "@testing-library/react": "^11.1.0",
-    "@testing-library/user-event": "^12.1.10",
     "bootstrap": "^4.6.0",
-    "css-loader": "^5.0.1",
     "ramda": "^0.27.1",
     "react": "^17.0.1",
     "react-bootstrap": "^1.4.3",
@@ -24,9 +20,7 @@
     "react-slick": "^0.28.0",
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0",
-    "slick-carousel": "^1.8.1",
-    "style-loader": "^2.0.0",
-    "web-vitals": "^0.2.4"
+    "slick-carousel": "^1.8.1"
   },
   "scripts": {
     "start": "react-scripts start",
